@@ -10,9 +10,9 @@
 AppId={{6C0E5A53-6E0B-4B1F-9C55-F75A01A0F750}
 AppName=AULA F75
 AppVersion={#AppVersion}
-AppPublisher=Gnome627
-AppPublisherURL=https://github.com/Gnome627/aula-f75-software
-AppSupportURL=https://github.com/Gnome627/aula-f75-software/issues
+AppPublisher=Baklatech
+AppPublisherURL=https://github.com/Baklatech/aula-f75-software
+AppSupportURL=https://github.com/Baklatech/aula-f75-software/issues
 DefaultDirName={autopf}\AULA F75
 DisableProgramGroupPage=yes
 ; installs for the current user without administrator rights; the dialog offers "for all users" too
